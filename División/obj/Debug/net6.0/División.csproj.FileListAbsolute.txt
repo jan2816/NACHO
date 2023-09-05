@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\División\bin\Debug\net6.0\División.deps.json
+C:\Users\Asus\source\repos\División\bin\Debug\net6.0\División.dll
+C:\Users\Asus\source\repos\División\bin\Debug\net6.0\División.pdb
+C:\Users\Asus\source\repos\División\obj\Debug\net6.0\División.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\División\obj\Debug\net6.0\División.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\División\obj\Debug\net6.0\División.AssemblyInfo.cs
+C:\Users\Asus\source\repos\División\obj\Debug\net6.0\División.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\División\obj\Debug\net6.0\División.dll
+C:\Users\Asus\source\repos\División\obj\Debug\net6.0\refint\División.dll
+C:\Users\Asus\source\repos\División\obj\Debug\net6.0\División.pdb
+C:\Users\Asus\source\repos\División\obj\Debug\net6.0\ref\División.dll

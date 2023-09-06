@@ -1,0 +1,6 @@
+C:\Users\Valen\Desktop\suma_\suma_\bin\Debug\suma_.dll
+C:\Users\Valen\Desktop\suma_\suma_\bin\Debug\suma_.pdb
+C:\Users\Valen\Desktop\suma_\suma_\obj\Debug\suma_.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\suma_\suma_\obj\Debug\suma_.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\suma_\suma_\obj\Debug\suma_.dll
+C:\Users\Valen\Desktop\suma_\suma_\obj\Debug\suma_.pdb

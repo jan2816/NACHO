@@ -1,0 +1,10 @@
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\bin\Debug\operacionesnacho.exe.config
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\bin\Debug\operacionesnacho.exe
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\bin\Debug\operacionesnacho.pdb
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\bin\Debug\operaciones.dll
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\bin\Debug\operaciones.pdb
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\obj\Debug\operacionesnacho.csproj.AssemblyReference.cache
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\obj\Debug\operacionesnacho.csproj.CoreCompileInputs.cache
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\obj\Debug\operacionesnacho.csproj.CopyComplete
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\obj\Debug\operacionesnacho.exe
+C:\Users\jhojan\OneDrive\Escritorio\operacionesnacho\obj\Debug\operacionesnacho.pdb
